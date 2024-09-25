@@ -1,2 +1,1 @@
-# Incoming_goods_prediction
-Machine Learning project aimed to create a model out of real word data that can predict OK/NOK labels for incoming goods.
+This machine learning project aims to develop a predictive model using real-world data to classify incoming goods as either OK or NOK (not okay). By leveraging various features of the dataset, the model will help optimize inventory management and enhance quality control processes. The repository includes data preprocessing steps, model training, evaluation metrics, and example predictions.
